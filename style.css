@@ -1,0 +1,16 @@
+p{
+    color:red;
+}
+
+body{
+    background-color:gray;
+}
+.name{
+    font-size: 40px;
+    color: chartreuse;
+    text-align: center;
+}
+
+#first{
+    color: brown;
+}
